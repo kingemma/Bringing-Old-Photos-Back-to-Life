@@ -1,4 +1,7 @@
 __pycache__/
 *.pyc
 *~
+/Global/checkpoints/**
+/Face_Enhancement/checkpoints/**
+/outputs
 
