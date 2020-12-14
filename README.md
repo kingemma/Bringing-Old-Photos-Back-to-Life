@@ -52,6 +52,15 @@ cd ../
 
 Download the pretrained model from Azure Blob Storage, put the file `Face_Enhancement/checkpoints.zip` under `./Face_Enhancement`, and put the file `Global/checkpoints.zip` under `./Global`. Then unzip them respectively.
 
+Face_Enhancement：
+https://facevc.blob.core.windows.net/zhanbo/old_photo/pretrain/Face_Enhancement/checkpoints.zip
+
+Global：
+https://facevc.blob.core.windows.net/zhanbo/old_photo/pretrain/Global/checkpoints.zip
+
+
+
+
 ```
 cd Face_Enhancement/
 wget https://facevc.blob.core.windows.net/zhanbo/old_photo/pretrain/Face_Enhancement/checkpoints.zip
