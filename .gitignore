@@ -4,4 +4,10 @@ __pycache__/
 /Global/checkpoints/**
 /Face_Enhancement/checkpoints/**
 /outputs
+/inputImages/withoutSctrach/**
+/inputImages/withSctrach/**
+
+/outputs/withoutSctrach/**
+/outputs/withSctrach/**
+
 
